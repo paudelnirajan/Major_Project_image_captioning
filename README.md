@@ -119,7 +119,7 @@ The advent of deep neural networks has made the image captioning task more feasi
     </td>
     <td valign="top" align="center">
         <div>
-          <img src="https://github.com/Nirajan17.png" width="150px;"/><br /><sub><a href="https://github.com/SDPhoton">Nirajan Paudel</a>
+          <img src="https://github.com/paudelnirajan.png" width="150px;"/><br /><sub><a href="https://github.com/paudelnirajan">Nirajan Paudel</a>
         </div>
     </td>
     <!-- <td valign="top" align="center">
